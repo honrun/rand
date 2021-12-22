@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1637983162 source:e:\debug project\c\rand\softrand.c
+	<stdint.h>
+
+1637931278 e:\debug project\c\rand\softrand.h
+
+1637931297 source:e:\debug project\c\rand\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"softRand.h"
+
